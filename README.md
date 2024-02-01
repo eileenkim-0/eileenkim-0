@@ -6,22 +6,19 @@
 
 - I am currently taking a double bachelor in HR and Digitalisation & HR, organizational psychology and management at Kristiania University College.
 - I love learning about new technologies and development.
-- I am a dog mom (worf)
+- I am a dog mom <3 
 - I am currently working on something cool.
-
+&nbsp; 
 
 <h4 align=left> 🩷 LANGUAGES & DATABASE... </h4>
-<img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white>
-
-
+<img src= "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+&nbsp; 
+                                                                                                                                                                                                                                                                                                                                                
 <h4 align=left> 🩷 SOFTWARES, ADOBE AND TOOLS ... </h4>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"> 
 
 
 <h4 align=left> 🩷 REACH ME ON ... </h4>
-
-
-
-languages
-softwares and tools
-
+🐶 my mail: eileen8kim@gmail.com
+🐱 my insta: @eileenkim_
+🦭 my discord: daylilly 
