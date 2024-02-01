@@ -7,7 +7,7 @@
 - I am currently taking a double bachelor in HR and Digitalisation & HR, organizational psychology and management at Kristiania University College.
 - I love learning about new technologies and development.
 - I am a dog mom <3 
-- I am currently working on something cool.
+- I am currently working on something cool (!!!)
 &nbsp; 
 
 <h4 align=left> 🩷 LANGUAGES & DATABASE... </h4>
