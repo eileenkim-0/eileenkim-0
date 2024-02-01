@@ -20,5 +20,8 @@
 
 <h4 align=left> 🩷 REACH ME ON ... </h4>
 🐶 my mail: eileen8kim@gmail.com
+&nbsp; 
 🐱 my insta: @eileenkim_
+&nbsp; 
 🦭 my discord: daylilly 
+&nbsp; 
