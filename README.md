@@ -4,10 +4,9 @@
 
 <h4 align=left> 🩷 ABOUT ME ... </h4>
 
-- I am currently taking a double bachelor in HR and Digitalisation & HR, organizational psychology and management at Kristiania University College in Norway.
+- I am currently taking a double bachelor in HR and Digitalisation at Kristiania University College in Norway.
 - I love learning about new technologies and development.
-- I am a dog mom <3 
-- I am currently working on something cool !!! ٩(ˊᗜˋ*)و
+- I am a dog mom <3
 &nbsp; 
 
 <h4 align=left> 🩷 LANGUAGES & DATABASE... </h4>
