@@ -1,7 +1,9 @@
-<h1 align="center">Hi there, I am Eileen Kim 🎀</h1>
-<img src="https://github.com/eileenkim-0/eileenkim-0/assets/158452147/f47c9a3c-d939-415f-8d85-e3c181e6ec94" height="150px">
+<h1 align="center">Hiii, I´m Eileen 🎀</h1>
 
-<p align="center">Welcome to my GitHub profile! I’m passionate about HR, technology, and all things digital. 🩷</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e5e2148a-f73e-4854-b6b8-2f4a634092d7" height="200px" alt="Profile Picture">
+</div>
+<p align="center">Driven by a love for technology, creating inclusive environments, and a curiosity for everything digital. 🩷</p>
 
 ---
 
