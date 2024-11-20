@@ -42,8 +42,8 @@
 
 ---
 
-### 🩷 Connect with Me
-- 📧 **Email**: [eileen8kim@gmail.com](mailto:eileen8kim@gmail.com)
+### 🩷 Contact Me
+- 📧 **Email**: [lily8codes@gmail.com](mailto:lily8codes@gmail.com)
 - 📸 **Instagram**: [@eileenkim_](https://www.instagram.com/eileenkim_)
 - 🐾 **Discord**: daylilly
 
