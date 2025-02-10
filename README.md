@@ -8,10 +8,10 @@
 ---
 
 ### 🩷 About Me
-- 🎓 I’m currently pursuing double bachelor´s degree in **HR** and **Digitalisation** at Kristiania University College, Norway.
-- 🌱 I love learning about **new technologies**, **web development**, and exploring **AI**.
+- 🎓 I’m currently pursuing double bachelor´s degree in **IT (Frontend)** and **HR** at Kristiania University College, Norway.
+- 🌱 I love learning about **new technologies**, **web development**, and exploring **AI and its potentials**.
 - 🐶 I’m a proud **dog mom** and enjoy hiking with my furry friend <33
-- 🎨 In my spare time, I enjoy **designing websites** and working with **Adobe tools**.
+- 🎨 In my spare time, I enjoy **designing websites** and **gaming**!
 
 ---
 
