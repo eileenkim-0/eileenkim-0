@@ -10,8 +10,7 @@
 ### 🩷 About Me
 - 🎓 I have a bachelors degree in HR & Tech, and now pursuing a degree in Frontend!
 - 🌱 I love learning about **new technologies**, **web development**, and exploring **AI and its potentials**.
-- 🐶 I’m a proud **dog mom** and enjoy hiking with my furry friend <33
-- 🎨 In my spare time, I enjoy **designing websites** and **gaming**!
+- 🎨 In my spare time, I enjoy **coding**, **drinking matcha** and **gaming**!
 
 ---
 
